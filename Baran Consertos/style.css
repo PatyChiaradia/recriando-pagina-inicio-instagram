@@ -1,0 +1,42 @@
+body{
+    background: white;
+    max-width: 100%;
+    margin: auto;
+}
+
+.logo {
+    background: black;
+    text-align-last: center;
+    width: 100%
+}
+.sobre_nos {
+    color:black;
+    font-family: verdana;
+    margin: 1cm;
+} 
+
+.sobre_nos {
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.sobre_nos_content {
+    font-family: arial;
+    margin: 0;
+    margin-bottom: 15px;
+    padding-left: 15px;
+    font-size: medium;
+}
+
+a {
+    color: white;
+    text-decoration:none;
+}
+.rodape {
+    list-style-type: none;
+    background: black;
+    color: white;
+    padding-left: 15px;
+    font-family: arial;
+    font-size: small
+}
